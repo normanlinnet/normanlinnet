@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.7d69d68e.chunk.js",
-    "main.js.map": "/static/js/main.7d69d68e.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.2f4cb36a.chunk.js": "/static/js/2.2f4cb36a.chunk.js",
-    "static/js/2.2f4cb36a.chunk.js.map": "/static/js/2.2f4cb36a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1c5c5513ec61936b32d86ca0f8902350.js": "/precache-manifest.1c5c5513ec61936b32d86ca0f8902350.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/exit.5bb388b5.svg": "/static/media/exit.5bb388b5.svg",
-    "static/media/home.a8474d8e.svg": "/static/media/home.a8474d8e.svg",
-    "static/media/logo.3e5f8e36.svg": "/static/media/logo.3e5f8e36.svg",
-    "static/media/profile.3eddd922.svg": "/static/media/profile.3eddd922.svg",
-    "static/media/space.jpg": "/static/media/space.7dfc7923.jpg"
+    "main.js": "/vocab-learner/static/js/main.7d69d68e.chunk.js",
+    "main.js.map": "/vocab-learner/static/js/main.7d69d68e.chunk.js.map",
+    "runtime~main.js": "/vocab-learner/static/js/runtime~main.bbd3519c.js",
+    "runtime~main.js.map": "/vocab-learner/static/js/runtime~main.bbd3519c.js.map",
+    "static/js/2.2f4cb36a.chunk.js": "/vocab-learner/static/js/2.2f4cb36a.chunk.js",
+    "static/js/2.2f4cb36a.chunk.js.map": "/vocab-learner/static/js/2.2f4cb36a.chunk.js.map",
+    "index.html": "/vocab-learner/index.html",
+    "precache-manifest.c180f153984b5f4bdd6b8dc269429183.js": "/vocab-learner/precache-manifest.c180f153984b5f4bdd6b8dc269429183.js",
+    "service-worker.js": "/vocab-learner/service-worker.js",
+    "static/media/exit.5bb388b5.svg": "/vocab-learner/static/media/exit.5bb388b5.svg",
+    "static/media/home.a8474d8e.svg": "/vocab-learner/static/media/home.a8474d8e.svg",
+    "static/media/logo.3e5f8e36.svg": "/vocab-learner/static/media/logo.3e5f8e36.svg",
+    "static/media/profile.3eddd922.svg": "/vocab-learner/static/media/profile.3eddd922.svg",
+    "static/media/space.jpg": "/vocab-learner/static/media/space.7dfc7923.jpg"
   }
 }
