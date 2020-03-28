@@ -1,5 +1,12 @@
 # vocab-learner
 
+## Used Tech
+
+React.js
+Material Design
+GraphQL
+TypeScirpt
+
 ## Project setup
 ```
 npm install
@@ -15,7 +22,7 @@ npm start
 npm build
 ```
 
-### Features
+## Features
 
 1. User can browse the list of vocabulary on home page.
 1. User can login/logout by their email.
